@@ -1,0 +1,19 @@
+#set{
+	display: none;
+}
+#book{
+	display: none;
+}
+#pic{
+	display: none;
+}
+#com{
+	display: none;
+}
+#load{
+	display: none;
+	background-color: dodgerblue;
+}
+#let{
+	display: none;
+}
